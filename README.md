@@ -11,10 +11,10 @@ Created a dashboard for better content recommendation in netflix using IMDB rati
 # Project 3- Hotel_Data_Anlaysis (https://github.com/Shrey27397/HR-Data-Analytics)
 Created an end to end project on Hotel data to increase to revenue.
 
--Created database by merging data taken from kaggle and other sources using SQL(MySQL).
--Performed EDA using SQL to get some insights.
--Performed data cleaning and data wrangling using Power BI and excel.
--Created an interactive dashboard which provides full insight about the revenue over the years.
+- Created database by merging data taken from kaggle and other sources using SQL(MySQL).
+- Performed EDA using SQL to get some insights.
+- Performed data cleaning and data wrangling using Power BI and excel.
+- Created an interactive dashboard which provides full insight about the revenue over the years.
 
 # Project 4- HR_Data_Analysis (https://github.com/Shrey27397/Hotel_Data_Anlaysis)
 Created a dashboard on HR data to get the full insights of employees details.
